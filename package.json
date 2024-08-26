@@ -1,0 +1,27 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "Teste com cypress para testes de API ( GET, PUT, POST, DELETE ) e parte web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfernandes1/cypress-E2E.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfernandes1/cypress-E2E/issues"
+  },
+  "homepage": "https://github.com/hfernandes1/cypress-E2E#readme",
+  "dependencies": {
+    "cypress": "^13.13.3",
+    "cypress-xpath": "^2.0.1",
+    "xpath": "^0.0.34"
+  }
+}
