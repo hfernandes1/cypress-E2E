@@ -72,7 +72,7 @@ Ao executar esse comando, será adicionado alguns packages necessários para exe
 
 ## 6 - configure o cypress.config.js ⚙️
 
-adicionei a baseUrl ( nesse caso irei colocar a página "https://blogdoagi.com.br/", que é o foco desse projeto pessoal ) e também adicionei o "hideXhr" para não aparecer todas as requisições ao executar os testes. 
+adicionei a baseUrl ( nesse caso irei colocar a página "[/api.restful-api.dev](https://api.restful-api.dev)", que é o foco desse projeto pessoal )
 
 ![image](https://github.com/user-attachments/assets/931454e8-f0ad-4939-9ebb-98667d3f3643)
 
